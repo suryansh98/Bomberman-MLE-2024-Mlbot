@@ -8,9 +8,9 @@ In this project, we utilized Q-learning with a focus on feature engineering to t
 
 ## Team Members
 
-- Suryansh Chaturvedi
 - Dorina Ismaili
 - Felix Exner
+- Suryansh Chaturvedi
 
 ## Repository Contents
 
